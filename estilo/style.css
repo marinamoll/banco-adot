@@ -7,7 +7,7 @@ header{
 	padding: 20px 0;
 }
 
-.cabeçalho{
+.cabecalho{
 	position: relative;
 	width: 90%;
 	margin: 0 auto;
@@ -78,7 +78,7 @@ nav a:hover{
 }
 
 
-#titulo-benefícios{
+#titulo-beneficios{
 	display: inline-block;
 	width: 20%;
 	font-size: 40px;
@@ -88,7 +88,7 @@ nav a:hover{
 	color: #1B143D;
 }
 
-#benefício1{
+#beneficio1{
 	display: inline-block;
 	box-sizing: border-box;
 	border: 2px solid #0077A1;
@@ -108,11 +108,11 @@ nav a:hover{
 	color: #1B143D;
 }
 
-#benefício1 p{
+#beneficio1 p{
 	color: #1B143D;
 }
 
-#benefício2{
+#beneficio2{
 	display: inline-block;
 	box-sizing: border-box;
 	border: 2px solid #0077A1;
@@ -125,18 +125,18 @@ nav a:hover{
 	height: 200px;
 }
 
-#benefício2 h3{
+#beneficio2 h3{
 	font-size: 18px;
 	font-weight: bold;
 	padding: 10px;
 	color: #1B143D;
 }
 
-#benefício2 p{
+#beneficio2 p{
 	color: #1B143D;
 }
 
-#benefício3{
+#beneficio3{
 	display: inline-block;
 	box-sizing: border-box;
 	border: 2px solid #0077A1;
@@ -156,11 +156,11 @@ nav a:hover{
 	color: #1B143D;
 }
 
-#benefício3 p{
+#beneficio3 p{
 	color: #1B143D;
 }
 
-#benefício4{
+#beneficio4{
 	display: inline-block;
 	box-sizing: border-box;
 	border: 2px solid #0077A1;
@@ -173,13 +173,13 @@ nav a:hover{
 	height: 200px;
 }
 
-#benefício4 h3{
+#beneficio4 h3{
 	font-size: 18px;
 	font-weight: bold;
 	padding: 10px;
 	color: #1B143D;
 }
 
-#benefício4 p{
+#beneficio4 p{
 	color: #1B143D;
 }
