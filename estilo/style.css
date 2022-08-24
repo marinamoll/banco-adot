@@ -1,0 +1,185 @@
+body{
+	font-family: 'Montserrat', sans-serif;;
+}
+
+header{
+	background: #1B143D;
+	padding: 20px 0;
+}
+
+.cabeçalho{
+	position: relative;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.logo-head{
+	width: 100px;
+}
+
+li .menu{
+	font-size: 15px;
+}
+
+nav{
+	position: absolute;
+	top: 30%;
+	right: 0;
+}
+
+nav li{
+	display: inline;
+	margin: 0 0 0 40px;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #FFFFFF;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+nav a:hover{
+	color: #0077A1;
+}
+
+.banner-inicial{
+	display: inline-block;
+	position: relative;
+}
+
+.banner-inicial h2{
+	position: absolute;
+	top: 150px;
+	left: 20px;
+	font-size: 40px;
+	color: #1B143D;
+}
+
+.banner-inicial h3{
+	position: absolute;
+	top: 200px;
+	left: 20px;
+	font-size: 40px;
+	color: #0077A1;
+}
+
+.banner-inicial p{
+	position: absolute;
+	top: 250px;
+	left: 20px;
+	font-size: 20px;
+	text-transform: uppercase;
+	color: #1B143D;
+}
+
+.imgcards{
+	width: 100%;
+}
+
+
+#titulo-benefícios{
+	display: inline-block;
+	width: 20%;
+	font-size: 40px;
+	margin: 40px 0 0 20px;
+	font-weight: bolder;
+	line-height: 1.2em;
+	color: #1B143D;
+}
+
+#benefício1{
+	display: inline-block;
+	box-sizing: border-box;
+	border: 2px solid #0077A1;
+	border-radius: 10px;
+	text-align: center;
+	vertical-align: top;
+	margin: 40px 0 0 140px;
+	padding: 30px 15px;
+	width: 200px;
+	height: 200px;
+}
+
+#benefício1 h3{
+	font-size: 18px;
+	font-weight: bold;
+	padding: 10px;
+	color: #1B143D;
+}
+
+#benefício1 p{
+	color: #1B143D;
+}
+
+#benefício2{
+	display: inline-block;
+	box-sizing: border-box;
+	border: 2px solid #0077A1;
+	border-radius: 10px;
+	text-align: center;
+	vertical-align: top;
+	margin: 40px 0 0 40px;
+	padding: 30px 15px;
+	width: 200px;
+	height: 200px;
+}
+
+#benefício2 h3{
+	font-size: 18px;
+	font-weight: bold;
+	padding: 10px;
+	color: #1B143D;
+}
+
+#benefício2 p{
+	color: #1B143D;
+}
+
+#benefício3{
+	display: inline-block;
+	box-sizing: border-box;
+	border: 2px solid #0077A1;
+	border-radius: 10px;
+	text-align: center;
+	vertical-align: top;
+	margin: 40px 0 0 40px;
+	padding: 30px 15px;
+	width: 200px;
+	height: 200px;
+}
+
+#benefício3 h3{
+	font-size: 18px;
+	font-weight: bold;
+	padding: 10px;
+	color: #1B143D;
+}
+
+#benefício3 p{
+	color: #1B143D;
+}
+
+#benefício4{
+	display: inline-block;
+	box-sizing: border-box;
+	border: 2px solid #0077A1;
+	border-radius: 10px;
+	text-align: center;
+	vertical-align: top;
+	margin: 40px 0 0 40px;
+	padding: 30px 15px;
+	width: 200px;
+	height: 200px;
+}
+
+#benefício4 h3{
+	font-size: 18px;
+	font-weight: bold;
+	padding: 10px;
+	color: #1B143D;
+}
+
+#benefício4 p{
+	color: #1B143D;
+}
