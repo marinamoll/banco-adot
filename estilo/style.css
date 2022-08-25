@@ -183,3 +183,55 @@ nav a:hover{
 #beneficio4 p{
 	color: #1B143D;
 }
+.imagem-app{
+	width: 45%;
+	float: left;
+}
+
+.aplicativo h2{
+	float: right;
+	text-align: right;
+	width: 30%;
+	font-size: 40px;
+	font-weight: bolder;
+	line-height: 1.2em;
+	color: #1B143D;
+	margin: 40px 20px 20px 0;
+}
+
+.aplicativo h3{
+	float: right;
+	text-align: right;
+	margin: 10px 20px 20px 0;
+	color: #1B143D;
+	width: 40%;
+}
+
+.aplicativo p{
+	float: right;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	margin: 10px 20px 0 0;
+	color: #1B143D;
+	width: 20%;
+	box-sizing: border-box;
+	border: 3px solid #C6E644;
+	border-radius: 10px;
+	padding: 10px;
+	transition: 0.9ms;
+}
+
+.aplicativo p:hover{
+	float: right;
+	text-align: center;
+	font-size: 23px;
+	font-weight: bold;
+	margin: 10px 20px 0 0;
+	color: #C6E644;
+	width: 20%;
+	box-sizing: border-box;
+	border: 3px solid #C6E644;
+	border-radius: 10px;
+	padding: 10px;
+}
