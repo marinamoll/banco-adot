@@ -265,3 +265,23 @@ nav a:hover{
 	border: 2px solid #1B143D;
 }
 
+footer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #C6E644;
+}
+
+.imgfooter{
+	width: 15%;
+}
+
+footer p{
+	margin: 20px;
+	color: #1B143D;
+}
+
+footer p:hover{
+	font-weight: bold;
+}
