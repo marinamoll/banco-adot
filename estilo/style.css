@@ -285,3 +285,95 @@ footer p{
 footer p:hover{
 	font-weight: bold;
 }
+
+/*inicio CSS PJ*/
+
+.bannerpj h2{
+	position: absolute;
+	text-align: right;
+	top: 150px;
+	right: 20px;
+	font-size: 40px;
+	color: #1B143D;
+	font-weight: bold;
+	width: 50%;
+}
+
+.bannerpj h3{
+	position: absolute;
+	text-align: right;
+	top: 235px;
+	right: 20px;
+	font-size: 30px;
+	color: #0077A1;
+	width: 100%;
+}
+
+.foto-banner-pj{
+	width: 100%;
+}
+
+.vantagenspj h2{
+	text-align: center;
+	font-size: 30px;
+	margin: 20px 0 40px 0;
+	color: #1B143D;
+	font-weight: bold;
+}
+
+.textovantagens1{
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+	grid-template-rows: 120px 120px;
+	justify-items: center;
+	}
+
+.textovantagens1 p{
+	font-size: 20px;
+	color: #1B143D;
+	text-align: center;
+	width: 50%;
+}
+
+.MEI{
+	background-color: #1B143D;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+.descricaoMEI{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+.fotomei{
+	width: 30%;
+	margin-left: 40px;
+}
+
+.descricaoMEI h2{
+	text-align: right;
+	font-size: 30px;
+	margin: 20px 40px 40px 0;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.descricaoMEI p{
+	text-align: right;
+	color: #FFFFFF;
+	width: 60%;
+	margin: 20px 40px 20px 0;
+}
+
+.descricaoMEI h3{
+	text-align: right;
+	color: #C6E644;
+	width: 60%;
+	margin: 20px 40px 10px 0;
+	font-size: 30px;
+	font-weight: bold;
+}
