@@ -377,3 +377,73 @@ footer p:hover{
 	font-size: 30px;
 	font-weight: bold;
 }
+
+.bannerpf h2{
+	position: absolute;
+	text-align: left;
+	top: 150px;
+	left: 20px;
+	font-size: 40px;
+	color: #1B143D;
+	font-weight: bold;
+	width: 50%;
+}
+
+.bannerpf h3{
+	position: absolute;
+	text-align: left;
+	top: 235px;
+	left: 20px;
+	font-size: 30px;
+	color: #0077A1;
+	width: 100%;
+}
+
+.foto-banner-pf{
+	width: 100%;
+}
+
+
+.fotopf{
+	width: 30%;
+	margin-left: 40px;
+}
+
+.kids{
+	background-color: #1B143D;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+.descricaokids{
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+
+
+.descricaokids h2{
+	text-align: right;
+	font-size: 30px;
+	margin: 20px 40px 40px 0;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.descricaokids p{
+	text-align: right;
+	color: #FFFFFF;
+	width: 50%;
+	margin: 20px 40px 20px 0;
+}
+
+.descricaokids h3{
+	text-align: right;
+	color: #C6E644;
+	width: 60%;
+	margin: 20px 40px 10px 0;
+	font-size: 30px;
+	font-weight: bold;
+}
